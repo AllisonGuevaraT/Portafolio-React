@@ -5,45 +5,45 @@ import FooterComponent from './FooterComponent';
 const tecnologias = [
     {
         descripcion: 'Para construir interfaces de usuario interactivas y dinámicas.',
-        logotipo: '/logos/reactlogo.png', // Ruta de la imagen en la carpeta public
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/reactlogo.png', // Ruta de la imagen en la carpeta public
     },
     {
         descripcion: 'Para manejar la lógica del lado del servidor de manera rápida y escalable.',
-        logotipo: '/logos/nodejs.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/nodejs.png',
     },
     {
 
         descripcion: 'Para empaquetar aplicaciones en contenedores ligeros y portátiles.',
-        logotipo: '/logos/docker.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/docker.png',
     },
     {
 
         descripcion: 'Para la orquestación y gestión de contenedores en grandes infraestructuras.',
-        logotipo: '/logos/kubernetes.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/kubernetes.png',
     },
     {
         descripcion: 'Para desarrollar modelos de aprendizaje automático.',
-        logotipo: '/logos/tensorflow.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/tensorflow.png',
     },
     {
         descripcion: 'Base de datos NoSQL para almacenar datos no estructurados.',
-        logotipo: '/logos/mongodb.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/mongodb.png',
     },
     {
         descripcion: 'Para servicios de nube confiables y escalables.',
-        logotipo: '/logos/aws.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/aws.png',
     },
     {
         descripcion: 'Para diseñar interfaces de usuario receptivas rápidamente.',
-        logotipo: '/logos/bootstrap.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/bootstrap.png',
     },
     {
         descripcion: 'Para la gestión de código y colaboración en equipos.',
-        logotipo: '/logos/github.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/github.png',
     },
     {
         descripcion: 'Para el desarrollo de aplicaciones móviles y web con soluciones en la nube.',
-        logotipo: '/logos/firebase.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/firebase.png',
     },
 ];
 
