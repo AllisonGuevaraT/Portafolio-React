@@ -9,21 +9,21 @@ const TestimoniosComponent = () => {
             nombre: 'Ana López',
             puesto: 'CEO en Startup XYZ',
             comentario: 'TechNova transformó completamente nuestra forma de trabajar. ¡La eficiencia ha mejorado un 200%!',
-            imagen: '/img/femalepic1.jpg',
+            imagen: 'https://AllisonGuevaraT.github.io/Portafolio-React/img/femalepic1.jpg',
         },
         {
             id: 2,
             nombre: 'Carlos Pérez',
             puesto: 'Desarrollador Full Stack',
             comentario: 'Las soluciones de TechNova son intuitivas y muy completas. Recomiendo al 100%.',
-            imagen: '/img/malepic.jpg', 
+            imagen: 'https://AllisonGuevaraT.github.io/Portafolio-React/img/malepic.jpg', 
         },
         {
             id: 3,
             nombre: 'Lucía Ramírez',
             puesto: 'Directora de Operaciones',
             comentario: 'El equipo de TechNova nos brindó soporte en cada paso. Su atención al cliente es inigualable.',
-            imagen: '/img/femalepic2.jpg', 
+            imagen: 'https://AllisonGuevaraT.github.io/Portafolio-React/img/femalepic2.jpg', 
         },
     ]);
 
