@@ -5,7 +5,7 @@ import FooterComponent from './FooterComponent';
 const tecnologias = [
     {
         descripcion: 'Para construir interfaces de usuario interactivas y dinámicas.',
-        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/reactlogo.png', // Ruta de la imagen en la carpeta public
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/reactlogo.png', 
     },
     {
         descripcion: 'Para manejar la lógica del lado del servidor de manera rápida y escalable.',
