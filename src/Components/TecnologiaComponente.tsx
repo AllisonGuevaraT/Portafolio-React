@@ -23,11 +23,11 @@ const tecnologias = [
     },
     {
         descripcion: 'Para desarrollar modelos de aprendizaje automático.',
-        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/tensorflow.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/TensorFlow.png',
     },
     {
         descripcion: 'Base de datos NoSQL para almacenar datos no estructurados.',
-        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/mongodb.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/mongoDB.png',
     },
     {
         descripcion: 'Para servicios de nube confiables y escalables.',
@@ -39,11 +39,11 @@ const tecnologias = [
     },
     {
         descripcion: 'Para la gestión de código y colaboración en equipos.',
-        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/github.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/GitHub.png',
     },
     {
         descripcion: 'Para el desarrollo de aplicaciones móviles y web con soluciones en la nube.',
-        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/firebase.png',
+        logotipo: 'https://AllisonGuevaraT.github.io/Portafolio-React/logos/Firebase.png',
     },
 ];
 
